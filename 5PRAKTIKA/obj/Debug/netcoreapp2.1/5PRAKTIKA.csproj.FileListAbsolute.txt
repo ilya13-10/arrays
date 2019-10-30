@@ -1,0 +1,11 @@
+C:\Users\Илья\source\repos\5PRAKTIKA\5PRAKTIKA\bin\Debug\netcoreapp2.1\5PRAKTIKA.deps.json
+C:\Users\Илья\source\repos\5PRAKTIKA\5PRAKTIKA\bin\Debug\netcoreapp2.1\5PRAKTIKA.runtimeconfig.json
+C:\Users\Илья\source\repos\5PRAKTIKA\5PRAKTIKA\bin\Debug\netcoreapp2.1\5PRAKTIKA.runtimeconfig.dev.json
+C:\Users\Илья\source\repos\5PRAKTIKA\5PRAKTIKA\bin\Debug\netcoreapp2.1\5PRAKTIKA.dll
+C:\Users\Илья\source\repos\5PRAKTIKA\5PRAKTIKA\bin\Debug\netcoreapp2.1\5PRAKTIKA.pdb
+C:\Users\Илья\source\repos\5PRAKTIKA\5PRAKTIKA\obj\Debug\netcoreapp2.1\5PRAKTIKA.csprojAssemblyReference.cache
+C:\Users\Илья\source\repos\5PRAKTIKA\5PRAKTIKA\obj\Debug\netcoreapp2.1\5PRAKTIKA.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\5PRAKTIKA\5PRAKTIKA\obj\Debug\netcoreapp2.1\5PRAKTIKA.AssemblyInfoInputs.cache
+C:\Users\Илья\source\repos\5PRAKTIKA\5PRAKTIKA\obj\Debug\netcoreapp2.1\5PRAKTIKA.AssemblyInfo.cs
+C:\Users\Илья\source\repos\5PRAKTIKA\5PRAKTIKA\obj\Debug\netcoreapp2.1\5PRAKTIKA.dll
+C:\Users\Илья\source\repos\5PRAKTIKA\5PRAKTIKA\obj\Debug\netcoreapp2.1\5PRAKTIKA.pdb
